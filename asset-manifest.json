@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MangodbStitchTest/static/css/main.5f361e03.chunk.css",
-    "main.js": "/MangodbStitchTest/static/js/main.5d2ad7e1.chunk.js",
-    "main.js.map": "/MangodbStitchTest/static/js/main.5d2ad7e1.chunk.js.map",
+    "main.js": "/MangodbStitchTest/static/js/main.c854f7ae.chunk.js",
+    "main.js.map": "/MangodbStitchTest/static/js/main.c854f7ae.chunk.js.map",
     "runtime-main.js": "/MangodbStitchTest/static/js/runtime-main.2a97aaf3.js",
     "runtime-main.js.map": "/MangodbStitchTest/static/js/runtime-main.2a97aaf3.js.map",
     "static/js/2.29402bb8.chunk.js": "/MangodbStitchTest/static/js/2.29402bb8.chunk.js",
     "static/js/2.29402bb8.chunk.js.map": "/MangodbStitchTest/static/js/2.29402bb8.chunk.js.map",
     "index.html": "/MangodbStitchTest/index.html",
-    "precache-manifest.afd68eb60969d4b66b6b59caa0a7540c.js": "/MangodbStitchTest/precache-manifest.afd68eb60969d4b66b6b59caa0a7540c.js",
+    "precache-manifest.c538cf87ee7042f1f87bfbbf84712ad3.js": "/MangodbStitchTest/precache-manifest.c538cf87ee7042f1f87bfbbf84712ad3.js",
     "service-worker.js": "/MangodbStitchTest/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/MangodbStitchTest/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.29402bb8.chunk.js.LICENSE.txt": "/MangodbStitchTest/static/js/2.29402bb8.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2a97aaf3.js",
     "static/js/2.29402bb8.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5d2ad7e1.chunk.js"
+    "static/js/main.c854f7ae.chunk.js"
   ]
 }

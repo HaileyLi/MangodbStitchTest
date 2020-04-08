@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9323e7e8aa13ec520e9cbb5cbc282212",
+    "revision": "222ad74620a66c5b5bfee659173779c4",
     "url": "/MangodbStitchTest/index.html"
   },
   {
-    "revision": "0fb1d2ec83378d2ad700",
+    "revision": "62205a3f78b59f0f249c",
     "url": "/MangodbStitchTest/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MangodbStitchTest/static/js/2.29402bb8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0fb1d2ec83378d2ad700",
-    "url": "/MangodbStitchTest/static/js/main.5d2ad7e1.chunk.js"
+    "revision": "62205a3f78b59f0f249c",
+    "url": "/MangodbStitchTest/static/js/main.c854f7ae.chunk.js"
   },
   {
     "revision": "0b5eb47be4910632f52d",
