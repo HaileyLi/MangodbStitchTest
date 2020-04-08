@@ -5,6 +5,7 @@ import {
   RemoteMongoClient
 } from "mongodb-stitch-browser-sdk";
 import "./App.css";
+import { v4 as uuidv4 } from 'uuid';
 
 
 
@@ -24,8 +25,7 @@ class App extends Component {
 
   componentDidMount() {
     // Initialize the App Client
-    this.client = Stitch.initializeDefaultAppClient("todotutorial-bezkq");
-    console.log(this.client)
+    this.client = Stitch.initializeDefaultAppClient("test-ifgzk");
     // Get a MongoDB Service Client, used for logging in and communicating with Stitch
     const mongodb = this.client.getServiceClient(
       RemoteMongoClient.factory,
@@ -59,7 +59,7 @@ class App extends Component {
   addTodo(event) {
     event.preventDefault();
     const { value } = this.state;
-    console.log(this.client)
+    console.log(this.db)
 
     this.db
       .collection("todo-item")
